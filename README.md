@@ -1,75 +1,76 @@
-# 🚀 MDXpress Blog - CNP (Compiled N' Portable)
+# 🚀 TWPRESS博客框架
 
-**MDXpress Blog - CNP** is a serverless-friendly version of the original [MDXpress Blog](https://github.com/eshan-singh78/MDXpress-Blog/), reworked to deploy seamlessly on platforms like **Vercel** using **Serverless Functions**.
+**MDXpress Blog - CNP** 是 [TWPRESS](https://twpress.mrche.top/) 的一个适合无服务器架构的版本，经过重构后可以无缝部署在如 **Vercel(推荐)，Netlify，Cloudflare Pages** 这类平台。
 
-It’s a markdown-powered, minimal blogging platform that compiles content on-the-fly without any backend server, database, or complex setup.
-
----
-
-## ✨ What's New in CNP?
-
-- ✅ **Serverless Architecture**: Powered by Vercel Serverless Functions.
-- 🪄 **Vercel-Ready**: No `server.js`, works natively with `vercel dev` and on production deploys.
-- 📁 **/api Directory Support**: Each route is handled through functions inside the `/api/` folder.
-- ⚙️ **Markdown Compilation**: Still powered by `marked`, now running serverlessly.
-- 💅 **Same UI, Better Delivery**: No compromises on theming, dark mode, or user experience.
+这是一个以 Markdown 驱动的极简博客平台，可以实时编译内容，无需后台服务器、数据库或复杂配置。
 
 ---
 
-## 📁 Project Structure
+## ✨ TWPRESS 有什么新特性？
+
+- ✅ **无服务器架构**：由 Vercel Serverless Functions 驱动
+- 🪄 **Vercel 原生支持**：无需 `server.js`，可直接与 `vercel dev` 及生产环境部署配合使用
+- 📁 **/api 目录支持**：每个路由都通过 `/api/` 文件夹内的函数处理
+- ⚙️ **Markdown 编译**：依然由 `marked` 提供支持，现在在无服务器环境中运行
+- 💅 **相同界面，更佳体验**：主题、暗黑模式和用户体验毫不妥协
+
+---
+
+## 📁 项目结构
 
 ```
 mdxpress-blog-cnp/
-├── api/                 # Serverless function handlers
-│   ├── index.js         # Homepage rendering
-│   ├── blog.js          # Blog listing route
-│   └── blog/[slug].js   # Dynamic blog rendering
+├── api/                 # 无服务器函数处理器
+│   ├── index.js         # 主页渲染
+│   ├── blog.js          # 博客列表路由
+│   └── blog/[slug].js   # 动态博客渲染
 ├── public/
-│   ├── blogs/           # Markdown files for each blog post
-│   ├── styles/          # CSS with dark mode support
-│   └── views/           # HTML templates
-├── vercel.json          # Vercel routing and config
-├── package.json         # Metadata and dependencies
-└── README.md            # This file
+│   ├── blogs/           # 每篇博客的 Markdown 文件
+│   ├── styles/          # 带有暗黑模式支持的 CSS
+│   └── views/           # HTML 模板
+├── vercel.json          # Vercel 路由和配置
+├── package.json         # 元数据和依赖
+└── README.md            # 本文件
 ```
 
 ---
 
-## 🧪 How to Run Locally
+## 🧪 本地运行方法
 
-1. **Clone the Repository**
+1. **克隆仓库**
    ```bash
    git clone https://github.com/eshan-singh78/MDXpress-Blog
    cd MDXpress-Blog-CNP
    ```
 
-2. **Install Dependencies**
+2. **安装依赖**
    ```bash
    npm install
    ```
 
-3. **Run Locally with Vercel**
+3. **用 Vercel 本地运行**
    ```bash
    vercel dev
    ```
 
-4. **Visit the App**
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. **访问应用**
+   在浏览器中打开 [http://localhost:3000](http://localhost:3000)。
 
 ---
 
-## 📌 How It Works on Vercel
+## 📌 在 Vercel 上如何运行
 
-- All backend logic is handled via Serverless Functions in `/api`.
-- Static assets (styles, markdown files) are served from `/public`.
-- HTML templates are combined with rendered Markdown and returned as HTML.
-
----
-
-## 🙋‍♂️ About the Creator
-
-Crafted by [Eshan Singh](mailto:eshan.singh.04.dev@gmail.com), a full-stack developer & cybersecurity enthusiast exploring the balance of performance and simplicity in web apps.
+- 所有后端逻辑都通过 `/api` 目录下的无服务器函数处理
+- 静态资源（样式、Markdown 文件）通过 `/public` 提供
+- HTML 模板与渲染后的 Markdown 合并并返回为 HTML
 
 ---
 
-> Looking to contribute, request features, or report issues? Feel free to open a PR or issue!
+## 🙋‍♂️ 关于作者
+
+由 MRCHE.TOP 精心打造，上海初中生，致力于在 Web 应用中探索性能与简洁的平衡。
+
+---
+
+> 希望参与贡献、提出功能请求或报告问题？欢迎随时发邮件到1@mrche.top！
+
