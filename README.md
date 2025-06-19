@@ -39,8 +39,8 @@ mdxpress-blog-cnp/
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/eshan-singh78/MDXpress-Blog
-   cd MDXpress-Blog-CNP
+   git clone https://github.com/che-ui/twpress
+   cd TWPRESS
    ```
 
 2. **安装依赖**
