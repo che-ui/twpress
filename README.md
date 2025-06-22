@@ -1,6 +1,6 @@
-# 🚀 TWPRESS 博客框架（开发中）
+# 🚀 twpress 博客框架（开发中）
 
-[**TWPRESS**](https://twpress.mrche.top/) 的一个无服务器架构的博客框架，可以无缝部署在如 **Vercel(推荐)，Netlify，Cloudflare Pages** 这类平台。
+[**twpress**](https://twpress.mrche.top/) 是一个无服务器架构的博客框架，可以无缝部署在如 **Vercel(推荐)，Netlify，Cloudflare Pages** 这类平台。
 
 这是一个以 Markdown 驱动的极简博客平台，可以实时编译内容，无需后台服务器、数据库或复杂配置。
 
@@ -68,7 +68,7 @@ mdxpress-blog-cnp/
 
 ## 🙋‍♂️ 关于作者
 
-由 MRCHE.TOP 精心打造，上海初中生，致力于在 Web 应用中探索性能与简洁的平衡。
+由 MRCHE 精心打造，上海初中生，致力于在 Web 应用中探索性能与简洁的平衡。
 
 ---
 
