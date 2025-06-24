@@ -29,7 +29,7 @@ Use standard Markdown to write your post.
 ```markdown
 # My First Post
 
-Welcome to my blog powered by **mdxpress**!
+Welcome to my blog powered by **twpress**!
 
 - Simple  
 - Fast  
