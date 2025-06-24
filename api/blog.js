@@ -14,7 +14,7 @@ export default function handler(req, res) {
             return `<li><a href="/api/blog/${slug}">${slug.replace(/-/g, ' ')}</a></li>`;
         }).join('\n');
 
-    const content = `<h1>My Blogs</h1><ul>${listItems}</ul>`;
+    const content = `<h1>我的博客</h1><ul>${listItems}</ul>`;
     const html = template.replace(/{{title}}/g, 'My Blog').replace(/{{content}}/g, content);
 
     res.setHeader('Content-Type', 'text/html');
