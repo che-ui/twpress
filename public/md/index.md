@@ -1,6 +1,6 @@
-# MDXpress 博客
+# twpress 博客
 
-**MDXpress 博客** 是一个为开发者和极简主义者打造的轻量级、无负担的博客平台。你只需将 Markdown (`.md`) 文件上传到指定文件夹即可发布博客文章。无需 CMS，简单易用，专注内容创作。
+**twpress 博客** 是一个为开发者和极简主义者打造的轻量级、无负担的博客平台。你只需将 Markdown (`.md`) 文件上传到指定文件夹即可发布博客文章。无需 CMS，简单易用，专注内容创作。
 
 ## 🚀 功能特性
 
@@ -67,10 +67,11 @@ git push origin main
 
 享受 Markdown 带来的写作乐趣 ✨
 
+===
 
-# MDXpress Blog
+# twpress Blog
 
-**MDXpress blog** is a lightweight, no-fuss blogging platform designed for developers and minimalists. It allows you to publish blog posts simply by uploading Markdown (`.md`) files to a folder. No CMS, no database—just clean and direct blogging.
+**twpress blog** is a lightweight, no-fuss blogging platform designed for developers and minimalists. It allows you to publish blog posts simply by uploading Markdown (`.md`) files to a folder. No CMS, no database—just clean and direct blogging.
 
 ## 🚀 Features
 
