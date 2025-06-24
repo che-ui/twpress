@@ -149,3 +149,10 @@ body.dark-mode button.navigate-btn {
     background: #333;
     color: #fff;
 }
+
+@font-face {
+  font-family: 'OPPO Sans 4.0';
+  src: url('/fonts/OPPO Sans 4.0.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
