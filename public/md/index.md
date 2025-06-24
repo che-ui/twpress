@@ -67,11 +67,11 @@ git push origin main
 
 享受 Markdown 带来的写作乐趣 ✨
 
-***
 
-# twpress Blog
 
-**twpress blog** is a lightweight, no-fuss blogging platform designed for developers and minimalists. It allows you to publish blog posts simply by uploading Markdown (`.md`) files to a folder. No CMS, no database—just clean and direct blogging.
+# twpress blog
+
+**twpress** is a lightweight, no-fuss blogging platform designed for developers and minimalists. It allows you to publish blog posts simply by uploading Markdown (`.md`) files to a folder. No CMS, no database—just clean and direct blogging.
 
 ## 🚀 Features
 
