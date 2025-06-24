@@ -1,6 +1,6 @@
 # twpress 博客
 
-❗注意：欲修改此页面，请前往public文件夹下的/md/index.md进行更换
+❗注意：欲修改此页面，请前往`public`文件夹下的`/md/index.md`进行更换
 
 **twpress 博客** 是一个为开发者和极简主义者打造的轻量级、无负担的博客平台。你只需将 Markdown (`.md`) 文件上传到指定文件夹即可发布博客文章。无需 CMS，简单易用，专注内容创作（现已支持Decap CMS，原Netlify CMS，让您更好地、随时随地创作）。
 
