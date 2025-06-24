@@ -68,9 +68,10 @@ twpress/
 
 ## 🙋‍♂️ 关于作者
 
-由 MRCHE 精心打造，上海初中生，致力于在 Web 应用中探索性能与简洁的平衡。
+由 @che-ui 精心打造，上海初中生，致力于在 Web 应用中探索性能与简洁的平衡，**官网** ：[www.mrche.top（维修中）](https://www.mrche.top/)；
+由 @terryzhangxr 基情支持，上海初中生，**官网** : [www.mrzxr.com](https://www.mrzxr.com/)。
 
 ---
 
-> 希望参与贡献、提出功能请求或报告问题？欢迎随时发邮件到1@mrche.top！
+> 希望参与贡献、提出功能请求或报告问题？欢迎随时发邮件到[zhang@mrzxr.com](mailto:zhang@mrzxr.com)（推荐）或[1@mrche.top](mailto:1@mrche.top)！
 
