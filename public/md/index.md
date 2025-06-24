@@ -1,6 +1,8 @@
 # twpress 博客
 
-**twpress 博客** 是一个为开发者和极简主义者打造的轻量级、无负担的博客平台。你只需将 Markdown (`.md`) 文件上传到指定文件夹即可发布博客文章。无需 CMS，简单易用，专注内容创作。
+❗注意：欲修改此页面，请前往public文件夹下的/md/index.md进行更换
+
+**twpress 博客** 是一个为开发者和极简主义者打造的轻量级、无负担的博客平台。你只需将 Markdown (`.md`) 文件上传到指定文件夹即可发布博客文章。无需 CMS，简单易用，专注内容创作（现已支持Decap CMS，原Netlify CMS，让您更好地、随时随地创作）。
 
 ## 🚀 功能特性
 
@@ -71,7 +73,9 @@ git push origin main
 
 # twpress blog
 
-**twpress** is a lightweight, no-fuss blogging platform designed for developers and minimalists. It allows you to publish blog posts simply by uploading Markdown (`.md`) files to a folder. No CMS, no database—just clean and direct blogging.
+❗Note: To modify this page, please go to /md/index.md in the public folder and change it
+
+**twpress** is a lightweight, no-fuss blogging platform designed for developers and minimalists. It allows you to publish blog posts simply by uploading Markdown (`.md`) files to a folder. No CMS, no database—just clean and direct blogging. (Now supports Decap CMS, formerly Netlify CMS, allowing you to create better)
 
 ## 🚀 Features
 
