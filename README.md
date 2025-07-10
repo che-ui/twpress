@@ -1,6 +1,6 @@
 # 🚀 TWP (twpress) 博客框架（开发中，预计将会支持 Decap CMS）
 
-[**twpress**](https://twpress.mrche.top/) 是一个无服务器架构的博客框架，可以无缝部署在如 **Vercel(推荐)，Netlify，Cloudflare Pages** 这类平台。
+[**twpress**](https://twpress.mrche.top/) 是一个无服务器架构的博客框架，可以无缝部署在如 **Vercel(推荐)** 这类平台。
 
 这是一个以 Markdown 驱动的极简博客平台，可以实时编译内容，无需后台服务器、数据库或复杂配置。
 
